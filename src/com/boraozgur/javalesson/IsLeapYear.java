@@ -1,6 +1,6 @@
 package com.boraozgur.javalesson;
 
-public class Main {
+public class IsLeapYear {
 
 	public static void main(String[] args) {
 		//printNumberInWord(1);
