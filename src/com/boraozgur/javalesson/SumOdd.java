@@ -1,10 +1,9 @@
 package com.boraozgur.javalesson;
 
-public class Exercises {
+public class SumOdd {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		sumOdd(100, 1000);
 	}
 	
 	public static boolean isOdd(int number) {
